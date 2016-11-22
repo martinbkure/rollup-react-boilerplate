@@ -1,0 +1,2 @@
+bundle:
+	@ rollup -c
